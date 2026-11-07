@@ -1,4 +1,4 @@
-TUTORIAL INSTALASI APLIKASI WISATA RELIGI (PIKNIK HALAL)
+## TUTORIAL INSTALASI APLIKASI WISATA RELIGI (PIKNIK HALAL)
 
 Selamat datang! Aplikasi ini adalah platform sistem manajemen
 wisata dan paket perjalanan religi berbasis web (Frontend React/Ionic
@@ -80,5 +80,4 @@ Sebelum memulai, pastikan komputer Anda sudah terinstal:
 
   Gunakan akun yang sudah ada di database untuk login, atau daftar melalui database langsung jika belum ada.
 
-Terima kasih telah mencoba proyek ini! Jika ada kendala, pastikan
-kembali koneksi database di file .env sudah benar.
+## Terima kasih telah mencoba proyek ini! Jika ada kendala, pastikan kembali koneksi database di file .env sudah benar.
